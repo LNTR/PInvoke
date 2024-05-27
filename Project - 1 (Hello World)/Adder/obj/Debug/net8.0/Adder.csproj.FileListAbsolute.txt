@@ -1,0 +1,14 @@
+D:\Projects\Interop\Project - 1\Adder\bin\Debug\net8.0\Adder.exe
+D:\Projects\Interop\Project - 1\Adder\bin\Debug\net8.0\Adder.deps.json
+D:\Projects\Interop\Project - 1\Adder\bin\Debug\net8.0\Adder.runtimeconfig.json
+D:\Projects\Interop\Project - 1\Adder\bin\Debug\net8.0\Adder.dll
+D:\Projects\Interop\Project - 1\Adder\bin\Debug\net8.0\Adder.pdb
+D:\Projects\Interop\Project - 1\Adder\obj\Debug\net8.0\Adder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Interop\Project - 1\Adder\obj\Debug\net8.0\Adder.AssemblyInfoInputs.cache
+D:\Projects\Interop\Project - 1\Adder\obj\Debug\net8.0\Adder.AssemblyInfo.cs
+D:\Projects\Interop\Project - 1\Adder\obj\Debug\net8.0\Adder.csproj.CoreCompileInputs.cache
+D:\Projects\Interop\Project - 1\Adder\obj\Debug\net8.0\Adder.dll
+D:\Projects\Interop\Project - 1\Adder\obj\Debug\net8.0\refint\Adder.dll
+D:\Projects\Interop\Project - 1\Adder\obj\Debug\net8.0\Adder.pdb
+D:\Projects\Interop\Project - 1\Adder\obj\Debug\net8.0\Adder.genruntimeconfig.cache
+D:\Projects\Interop\Project - 1\Adder\obj\Debug\net8.0\ref\Adder.dll
