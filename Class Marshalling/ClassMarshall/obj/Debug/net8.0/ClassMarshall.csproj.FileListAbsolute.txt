@@ -1,0 +1,15 @@
+D:\Projects\P Invoke\Project - 2 (Class Marshalling)\ClassMarshall\bin\Debug\net8.0\ClassMarshall.exe
+D:\Projects\P Invoke\Project - 2 (Class Marshalling)\ClassMarshall\bin\Debug\net8.0\ClassMarshall.deps.json
+D:\Projects\P Invoke\Project - 2 (Class Marshalling)\ClassMarshall\bin\Debug\net8.0\ClassMarshall.runtimeconfig.json
+D:\Projects\P Invoke\Project - 2 (Class Marshalling)\ClassMarshall\bin\Debug\net8.0\ClassMarshall.dll
+D:\Projects\P Invoke\Project - 2 (Class Marshalling)\ClassMarshall\bin\Debug\net8.0\ClassMarshall.pdb
+D:\Projects\P Invoke\Project - 2 (Class Marshalling)\ClassMarshall\obj\Debug\net8.0\ClassMarshall.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\P Invoke\Project - 2 (Class Marshalling)\ClassMarshall\obj\Debug\net8.0\ClassMarshall.AssemblyInfoInputs.cache
+D:\Projects\P Invoke\Project - 2 (Class Marshalling)\ClassMarshall\obj\Debug\net8.0\ClassMarshall.AssemblyInfo.cs
+D:\Projects\P Invoke\Project - 2 (Class Marshalling)\ClassMarshall\obj\Debug\net8.0\ClassMarshall.csproj.CoreCompileInputs.cache
+D:\Projects\P Invoke\Project - 2 (Class Marshalling)\ClassMarshall\obj\Debug\net8.0\ClassMarshall.sourcelink.json
+D:\Projects\P Invoke\Project - 2 (Class Marshalling)\ClassMarshall\obj\Debug\net8.0\ClassMarshall.dll
+D:\Projects\P Invoke\Project - 2 (Class Marshalling)\ClassMarshall\obj\Debug\net8.0\refint\ClassMarshall.dll
+D:\Projects\P Invoke\Project - 2 (Class Marshalling)\ClassMarshall\obj\Debug\net8.0\ClassMarshall.pdb
+D:\Projects\P Invoke\Project - 2 (Class Marshalling)\ClassMarshall\obj\Debug\net8.0\ClassMarshall.genruntimeconfig.cache
+D:\Projects\P Invoke\Project - 2 (Class Marshalling)\ClassMarshall\obj\Debug\net8.0\ref\ClassMarshall.dll
